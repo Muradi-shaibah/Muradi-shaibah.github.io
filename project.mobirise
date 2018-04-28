@@ -524,7 +524,7 @@
           },
           "title": "فندق سويس اوتيل",
           "text": "100 متر تفصل ما بين هذا الفندق الفخم و ساحة الحرم و يتميز باطلالة مميزة على الكعبة المشرفة و الحرم المكي.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.booking.com/hotel/sa/swissotel-makkah.ar.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.booking.com/hotel/sa/al-jewar-royal-orchid.ar.html\" data-toolbar=\"-mbrBtnMove\">للحجز و الاستفسار</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.booking.com/hotel/sa/swissotel-makkah.ar.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#header3-1n\" data-toolbar=\"-mbrBtnMove\">للحجز و الاستفسار</a>",
           "_tags": [
             "Theme"
           ],
