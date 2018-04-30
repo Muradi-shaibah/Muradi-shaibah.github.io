@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 
@@ -650,8 +651,8 @@ h6,
   font-size: 20px;
 }
 #contacts2-1l SPAN {
-  font-size: 15px;
-  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  font-family: 'Oswald', sans-serif;
   color: #7c7c7c;
 }
 

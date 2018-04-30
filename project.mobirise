@@ -1035,9 +1035,10 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "\nDora Hotel Jeddah",
+              "placeId": "ChIJg-7UdrfPwxURE9x-ESg5Y7g",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>عنوان مكتب المؤسسة</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><br></b></span></font>جدة - شارع خالد بن الوليد - مبنى درة جدة - الدور 5<br><br><br><font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>ارقام التواصل&nbsp;</b></span></font><br><br>. Mobile : +966 554431195<br>. Mobile : +966 540807766<br>",
@@ -1053,9 +1054,9 @@
               "font-size": "20px"
             },
             "SPAN": {
-              "font-size": "15px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "color": "#7c7c7c"
             }
           }
