@@ -672,14 +672,14 @@ h6,
 #menu-b .link,
 #menu-b .dropdown-item {
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-b .link {
-  font-size: 1.2rem;
+  font-size: 2.55rem;
 }
 #menu-b .dropdown-item,
 #menu-b .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 2.762rem;
 }
 #menu-b .link:hover,
 #menu-b .dropdown-item:hover,
